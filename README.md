@@ -1,5 +1,5 @@
 # GDSC GTU Bugdroid Workshop
-
+[Görev Linki](https://demo.hedgedoc.org/8PohW3k7RQqLLCOlF1hBFA#)
 ## Görev 1 Sayaç uygulaması
 ### Aşama 1 Yapılacaklar
 1. Ekrana bir buton ve yazı ekle.
